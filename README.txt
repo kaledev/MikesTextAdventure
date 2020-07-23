@@ -1,2 +1,2 @@
 Originally designed for Java 1.7+
-http://www.mikekale.com
+https://www.mikekale.com/projects/mikes-text-adventure/

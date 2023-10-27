@@ -2,7 +2,9 @@
 
 A text-based adventure game, written in Java. Marvin McStevens awakes with amnesia and must explore his environment to determine what has happened. A game of deep thought and world domination. Requires Java version 1.7 and above.
 
-***Note: This is a game I wrote many years ago - I haven't tested with modern Java versions!***
+***Note: This is a game I wrote many years ago - Seems to work in modern Java versions (tested in 1.8.0_391-b13), but there could be bugs!***
+
+![Gameplay Screenshot](mta_screenshot.png)
 
 [Executable](https://github.com/kaledev/MikesTextAdventure/blob/master/bin/MikesTextAdventure.jar)
 

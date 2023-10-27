@@ -1,0 +1,9 @@
+v1.1, 2014-03-19
+----------------
+- Javadoc corrections
+- Spellcheck corrections
+- Spacing issues
+
+v1.0, 2014-03-18
+----------------
+- Initial Release

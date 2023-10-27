@@ -4,11 +4,7 @@ A text-based adventure game, written in Java. Marvin McStevens awakes with amnes
 
 ***Note: This is a game I wrote many years ago - I haven't tested with modern Java versions!***
 
-[Javadoc](https://github.com/kaledev/MikesTextAdventure/javadoc/index.html)
-
-[Changelog](https://github.com/kaledev/MikesTextAdventure/changelog.txt)
-
-[Executable](https://github.com/kaledev/MikesTextAdventure/bin/MikesTextAdventure.jar)
+[Executable](https://github.com/kaledev/MikesTextAdventure/blob/master/bin/MikesTextAdventure.jar)
 
 ## Running
 - Make sure Java 1.7+ is installed on your machine.
